@@ -10,8 +10,6 @@ Workout-Tracker is an app that utilizes MongoDb/Mongoose to track workouts.
 
 A consumer will reach their fitness goals more quickly when they track their workout progress.
 
-### Visuals
-
 ## Landing Page
 
 ![Landing Page](./Assets/landing-page.png)

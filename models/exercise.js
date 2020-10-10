@@ -2,7 +2,10 @@ const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;
 
+//js obj passed to define what an exercise should look like (ex. data schema)
+
 const excerciseSchema = new Schema({
+  
   name: {
     type: String,
     trim: true,
